@@ -1,0 +1,17 @@
+# Ignore kaggle_data folder
+titanic_data/
+
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore downloaded packages and temporary files
+*.zip
+*.7z
+*.csv
+
+
+
